@@ -18,7 +18,9 @@ At [Rasa](https://rasa.com/) we are looking for talented and compassionate peopl
 * [Software Engineer - Backend](https://boards.greenhouse.io/rasa/jobs/4337397002?gh_src=d50afd4f2us "Software Engineer - Backend") Remote - United Kingdom OR Germany
 * [Staff Engineer - Tech Lead](https://boards.greenhouse.io/rasa/jobs/5587257002?gh_src=d50afd4f2us "Staff Engineer - Tech Lead") Remote - United Kingdom OR Germany
 * [Talent Acquisition Partner - Engineering](https://boards.greenhouse.io/rasa/jobs/5835862002?gh_src=d50afd4f2us "Talent Acquisition Partner - Engineering") Remote - United Kingdom OR Germany
-* [Technical Support Engineer](https://boards.greenhouse.io/rasa/jobs/5822518002?gh_src=d50afd4f2us "Technical Support Engineer") Remote - USA / UK / EU## Who we are
+* [Technical Support Engineer](https://boards.greenhouse.io/rasa/jobs/5822518002?gh_src=d50afd4f2us "Technical Support Engineer") Remote - USA / UK / EU
+
+## Who we are
 
 We're a tight-knit, fast-moving team working to advance the field of conversational AI. We value diversity of thought, creativity, a spirit of experimentation, and rigorous research.
 
