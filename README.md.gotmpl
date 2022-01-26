@@ -1,0 +1,9 @@
+> :robot: :speech_balloon:
+{{/* Bring all jobs from greenhouse with Engineer in the title */}}
+{{- range (datasource "jobs").jobs -}}
+{{- if contains .title "Engineer" }}
+* [{{ .title | strings.TrimSpace }}]({{ .absolute_url}} "{{ .title | strings.TrimSpace }}") {{ .location.name }}
+{{- else if contains .title "Advocate" }}
+* [{{ .title | strings.TrimSpace }}]({{ .absolute_url}} "{{ .title | strings.TrimSpace }}") {{ .location.name }}
+{{- end }}
+{{- end -}}

@@ -1,0 +1,3 @@
+datasources:
+  jobs:
+    url: https://boards-api.greenhouse.io/v1/boards/rasa/jobs 

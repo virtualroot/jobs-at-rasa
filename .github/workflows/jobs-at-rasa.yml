@@ -1,0 +1,26 @@
+name: "Jobs at Rasa"
+
+on:
+  schedule:
+    # At 10:42
+    # https://crontab.guru/#42_10_*_*_*
+    - cron: 42 10 * * *
+  workflow_dispatch:
+
+jobs:
+  update:
+    name: "Update jobs board"
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: asdf-vm/actions/install@v1
+
+      - run: |
+          gomplate -f README.md.gotmpl -o README.md
+          git config user.name "$GITHUB_ACTOR"
+          git config user.email "$GITHUB_ACTOR@users.noreply.github.com"
+          git add README.md
+          git commit --signoff -m "Sync README.md"
+          git push
