@@ -17,7 +17,8 @@ jobs:
 
       - uses: asdf-vm/actions/install@v1
 
-      - run: |
+      - name: Run gomplate and sync README.md
+        run: |
           gomplate -f README.md.gotmpl -o README.md
           if [[ $(git status --porcelain --untracked-files=no) ]]; then
             git config user.name "$GITHUB_ACTOR"
