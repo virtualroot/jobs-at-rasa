@@ -5,7 +5,7 @@
 At [Rasa](https://rasa.com/) we are looking for talented and compassionate people with whom we will shape the future of AI assistants.
 
 
-* [Developer Advocate](https://boards.greenhouse.io/rasa/jobs/5117982002?gh_src=d50afd4f2us "Developer Advocate") Remote - United Kingdom, Germany or USA
+* [Developer Advocate](https://boards.greenhouse.io/rasa/jobs/5117982002?gh_src=d50afd4f2us "Developer Advocate") Remote - UK, USA, Germany or CET time zone
 * [Engineering Manager](https://boards.greenhouse.io/rasa/jobs/5478065002?gh_src=d50afd4f2us "Engineering Manager") Remote - United Kingdom OR Germany
 * [Quality Assurance Engineer](https://boards.greenhouse.io/rasa/jobs/5586153002?gh_src=d50afd4f2us "Quality Assurance Engineer") Remote - United Kingdom OR Germany
 * [Senior DevOps Engineer](https://boards.greenhouse.io/rasa/jobs/5678794002?gh_src=d50afd4f2us "Senior DevOps Engineer") Remote - United Kingdom OR Germany
