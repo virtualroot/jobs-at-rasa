@@ -5,6 +5,7 @@
 At [Rasa](https://rasa.com/) we are looking for talented and compassionate people with whom we will shape the future of AI assistants.
 
 
+* [Solutions Engineer - Post Sales](https://boards.greenhouse.io/rasa/jobs/4866699002?gh_src=d50afd4f2us "Solutions Engineer - Post Sales") Remote - USA  (East Coast)
 
 ## Who we are
 
