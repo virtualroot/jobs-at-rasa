@@ -5,10 +5,10 @@
 At [Rasa](https://rasa.com/) we are looking for talented and compassionate people with whom we will shape the future of AI assistants.
 
 
-* [Developer Advocate](https://boards.greenhouse.io/rasa/jobs/4421201002?gh_src=d50afd4f2us "Developer Advocate") Berlin, Germany
+* [Developer Advocate - Conversational AI (m/f/x)](https://boards.greenhouse.io/rasa/jobs/4421201002?gh_src=d50afd4f2us "Developer Advocate - Conversational AI (m/f/x)") Germany or UK
 * [Senior Software Engineer - Backend, Node](https://boards.greenhouse.io/rasa/jobs/5001805002?gh_src=d50afd4f2us "Senior Software Engineer - Backend, Node") Remote - Germany OR UK
+* [Senior Software Engineer - Backend, Python](https://boards.greenhouse.io/rasa/jobs/4337397002?gh_src=d50afd4f2us "Senior Software Engineer - Backend, Python") Remote - Germany or UK
 * [Senior Solutions Engineer - Post Sales](https://boards.greenhouse.io/rasa/jobs/5133561002?gh_src=d50afd4f2us "Senior Solutions Engineer - Post Sales") Remote - United Kingdom OR Germany
-* [Software Engineer - Backend, Python](https://boards.greenhouse.io/rasa/jobs/4337397002?gh_src=d50afd4f2us "Software Engineer - Backend, Python") Remote - Germany or UK
 * [Solutions Engineer - Post Sales](https://boards.greenhouse.io/rasa/jobs/4866699002?gh_src=d50afd4f2us "Solutions Engineer - Post Sales") Remote - USA  (East Coast)
 * [Technical Support Engineer](https://boards.greenhouse.io/rasa/jobs/5822518002?gh_src=d50afd4f2us "Technical Support Engineer") Remote - USA / UK / EU
 
