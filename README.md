@@ -7,7 +7,6 @@ At [Rasa](https://rasa.com/) we are looking for talented and compassionate peopl
 
 * [Developer Advocate - Conversational AI (m/f/x)](https://boards.greenhouse.io/rasa/jobs/4421201002?gh_src=d50afd4f2us "Developer Advocate - Conversational AI (m/f/x)") Remote - UK, Germany, or Serbia
 * [Engineering Manager](https://boards.greenhouse.io/rasa/jobs/5478065002?gh_src=d50afd4f2us "Engineering Manager") Remote - UK, Germany, or Serbia
-* [Senior Machine Learning Engineer](https://boards.greenhouse.io/rasa/jobs/4971032002?gh_src=d50afd4f2us "Senior Machine Learning Engineer") Remote - UK, Germany, or Serbia
 * [Senior Software Engineer - Backend, Node](https://boards.greenhouse.io/rasa/jobs/5001805002?gh_src=d50afd4f2us "Senior Software Engineer - Backend, Node") Remote - UK, Germany, or Serbia
 * [Senior Software Engineer - Backend, Python](https://boards.greenhouse.io/rasa/jobs/4337397002?gh_src=d50afd4f2us "Senior Software Engineer - Backend, Python") Remote - UK, Germany, or Serbia
 * [Staff Engineer - Tech Lead - Machine Learning](https://boards.greenhouse.io/rasa/jobs/6200101002?gh_src=d50afd4f2us "Staff Engineer - Tech Lead - Machine Learning") Remote - UK, Germany, or Serbia
